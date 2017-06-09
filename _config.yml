@@ -1,9 +1,9 @@
-title : K Street wuz here
+title : K Street Media _config.yml
 
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Pablo Manriquez
+  email : pablo@kstreet.us.test
+  github : kstreetmedia
+  twitter : kstreetmedia
 
 theme: jekyll-theme-modernist
