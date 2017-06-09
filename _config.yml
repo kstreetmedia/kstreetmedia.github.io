@@ -5,3 +5,5 @@ author :
   email : blah@email.test
   github : username
   twitter : username
+
+theme: jekyll-theme-modernist
