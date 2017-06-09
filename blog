@@ -1,4 +1,1 @@
-git clone https://github.com/plusjade/jekyll-bootstrap.git USERNAME.github.com
-  cd kstreet.github.com
-  git remote set-url origin git@github.com:USERNAME/USERNAME.github.com.git
-  git push origin master
+Eventually this will be a blog, I hope.
