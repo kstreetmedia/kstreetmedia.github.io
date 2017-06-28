@@ -1,12 +1,12 @@
 ---
 layout: post
-title: What's Jekyll?
+title: What Site Is This?
 ---
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+Unfortunately, this site is still very much under-construction. Check back in soon. Meanwhile, consider signing up for [my newsletter](https://tinyletter.com/pab). 
 
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+  > Also, you can find me on [Twitter](http://twitter.com/pab_dc].
 
-It's an immensely useful tool and one we encourage you to use here with Lanyon.
+Sometimes [I blog in HuffPost](http://huffpost.com/author/pablo-manriquez).
 
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+See you soon! 
