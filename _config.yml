@@ -4,18 +4,18 @@
 permalink:           pretty
 
 # Setup
-title:               K Street Media
-tagline:             'Washington, D.C.'
-description:         'We make clients famous.' Follow us on <a href="http://instagram.com/kstreetmedia">Instagram</a>.  
-url:                 http://kstreet.us
+title:               Pablo Manriquez
+tagline:             'American Hopemonger'
+description:         'An honest man in politics shines more there than he would elsewhere.'
+url:                 http://tinyletter.com/pab
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              Pablo Manriquez
-  url:               https://twitter.com/kstreetmedia
-  email:             hello@kstreet.us
+  url:               https://tinyletter.com/pab
+  email:             pablo@kstreet.us
 
 # Custom vars
 version:             1.0.0
