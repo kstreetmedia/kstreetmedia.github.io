@@ -4,18 +4,18 @@
 permalink:           pretty
 
 # Setup
-title:               Pablo Manriquez
+title:               'Pablo Manriquez'
 tagline:             'American Hopemonger'
 description:         'An honest man in politics shines more there than he would elsewhere.'
-url:                 http://tinyletter.com/pab
-baseurl:             ''
-paginate:            5
+url:                 'http://tinyletter.com/pab'
+baseurl:             'http://tinyletter.com/pab'
+paginate:            '5'
 
 # About/contact
 author:
-  name:              Pablo Manriquez
-  url:               https://tinyletter.com/pab
-  email:             pablo@kstreet.us
+  name:              'Pablo Manriquez'
+  url:               'https://tinyletter.com/pab'
+  email:             'pablo@kstreet.us'
 
 # Custom vars
 version:             1.0.0
