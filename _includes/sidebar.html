@@ -9,7 +9,7 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Blog</a>
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
@@ -24,17 +24,15 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-    <a class="sidebar-nav-item" href="http://vimeo.com/kstreetmedia">Watch</a> me on Fox News.
-    <a class="sidebar-nav-item" href="http://tinyletter.com/pab">Subscribe</a> to my Newsletter.
-    <a class="sidebar-nav-item" href="http://twitter.com/pab_dc">Follow</a> my Tweets.
-    <a class="sidebar-nav-item" href="http://instagram.com/pablo.manriquez">Catch</a> my Instagram.
-    <a class="sidebar-nav-item" href="http://linkedin.com/in/mnrqz">Add</a> me on Linkedin.
-    <span class="sidebar-nav-item">Website Made in the USA</span> 
+    <a class="sidebar-nav-item" href="http://tinyletter.com/pab">Newsletter</a>
+    <a class="sidebar-nav-item" href="http://twitter.com/kstreetmedia">Twitter</a>
+    <a class="sidebar-nav-item" href="http://instagram.com/kstreetmedia">Instagram</a>
+    <span class="sidebar-nav-item">Made in Github</span> 
   </nav>
 
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. Some rights reserved.
+       {{ site.time | date: '%Y' }}. Some rights reserved.
     </p>
   </div>
 </div>
