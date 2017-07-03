@@ -5,6 +5,3 @@ title: New Website Alert
 ## Website Built in Github
 
 Hi all. Site is still under construction. Come back soon! 
-
-**Pablo Manriquez 
-***Washington, DC 
